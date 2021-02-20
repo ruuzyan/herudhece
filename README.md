@@ -1,16 +1,13 @@
-### Hi there 👋
+Backend & Web Apps Developer.
 
-<!--
-**herudhece/herudhece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![github stats](https://github-readme-stats.vercel.app/api?username=herudhece&show_icons=true)
 
-Here are some ideas to get you started:
+### Roles :
+- Web Apps Developer at Synergy Infinity
+- Web Apps Developer Freelance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Playground :
+- Yii2
+- PHP
+- Flutter
+- Python
