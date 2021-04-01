@@ -10,4 +10,4 @@ Backend & Web Apps Developer.
 - Yii2
 - PHP
 - Flutter
-- Python
+- HTML
