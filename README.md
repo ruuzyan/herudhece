@@ -7,7 +7,6 @@ Backend & Web Apps Developer.
 - Web Apps Developer Freelance
 
 ### Playground :
-- Yii2
 - PHP
-- Flutter
-- HTML
+- Yii2
+- Laravel
