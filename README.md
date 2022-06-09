@@ -3,8 +3,7 @@ Backend & Web Apps Developer.
 ![github stats](https://github-readme-stats.vercel.app/api?username=herudhece&show_icons=true)
 
 ### Roles :
-- Web Apps Developer at Synergy Infinity
-- Web Apps Developer Freelance
+- Web Apps Developer
 
 ### Playground :
 - PHP
